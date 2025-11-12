@@ -19,7 +19,6 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
-    "@tailwindcss/root": "https://github.com/tailwindlabs/tailwindcss/archive/refs/heads/master.tar.gz",
     "@types/react": "^19.1.16",
     "@types/react-dom": "^19.1.9",
     "@vitejs/plugin-react": "^5.0.4",
